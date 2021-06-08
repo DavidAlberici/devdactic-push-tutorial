@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "devdactic-push-tutorial",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
